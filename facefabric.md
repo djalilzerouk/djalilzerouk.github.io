@@ -47,7 +47,7 @@ Apres avoir montrer ce graphique, il explique que celui ci peut etre interprete 
 
 Cette partie de l'analyse avait donc pour but d'expliquer que le sommet de la pyramide est un reseau etendu connecte au centre (Mark Zuckerberg) et qu'il est extremement etendu par le biais de ses collaborateurs et de leurs connections personnelles.
 
-<a href="https://labs.rs/wp-content/uploads/2017/05/journeyFB.pdf"><img class="alignnone size-full wp-image-1773" src="https://labs.rs/wp-content/uploads/2017/05/Journey-01.gif"
+<a href="https://labs.rs/wp-content/uploads/2017/05/journeyFB.pdf"><img class="alignnone size-full wp-image-1773" src="https://labs.rs/wp-content/uploads/2017/05/Journey-01.gif">
                                                                         
 Figure 3: Origine educative et professionnelle des employes de Facebook 
 
