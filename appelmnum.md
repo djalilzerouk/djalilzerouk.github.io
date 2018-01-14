@@ -1,4 +1,3 @@
-<html>
 <p>
     Nous nous interesserons par ce texte, a l'apriori qu'on peut avoir sur un
     cours et des reels apports que celui ci peut nous apporter sans que l'on
@@ -173,4 +172,3 @@
 <p>
 <p>
 ZEROUK Djalil
-</html>
