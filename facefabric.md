@@ -1,8 +1,5 @@
 ﻿The Human Fabric of the Facebook Pyramid - Fiche de Lecture 
 
-FICHE DE LECTURE
-
-THE HUMAN FABRIC OF THE FACEBOOK PYRAMID 
 
 Quelque mots sur l'auteur de l'article : 
 
