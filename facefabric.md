@@ -1,4 +1,4 @@
-The Human Fabric of the Facebook Pyramid - Fiche de Lecture 
+ï»¿The Human Fabric of the Facebook Pyramid - Fiche de Lecture 
 
 FICHE DE LECTURE
 
@@ -35,7 +35,7 @@ Apres avoir explique comment fonctionne cette pyramide et en quoi elle est sembl
 Figure 2: Organigramme de gestion de Facebook 
 Au centre du graphique, Mark Zuckerberg entoure de ses collaborateurs les plus proches. Les lignes de reseau qui entourent ces acteurs les connectent l'etablissement d'obtention de diplome, leur position au sein de Facebook, et eventuellement un poste anterieur dans une entreprise differente.
 
-Apres avoir montrer ce graphique, il explique que celui ci peut etre interprete et lu de differentes facons. Soit en suivant son parcours academique et professionnel, soit en suivant les lignes de son reseau direct et des connections qui existent avec les autres nœuds de relations.
+Apres avoir montrer ce graphique, il explique que celui ci peut etre interprete et lu de differentes facons. Soit en suivant son parcours academique et professionnel, soit en suivant les lignes de son reseau direct et des connections qui existent avec les autres nÅ“uds de relations.
 
 Cette partie de l'analyse avait donc pour but d'expliquer que le sommet de la pyramide est un reseau etendu connecte au centre (Mark Zuckerberg) et qu'il est extremement etendu par le biais de ses collaborateurs et de leurs connections personnelles.
 
@@ -46,7 +46,7 @@ Ce reseau montre encore plus precisement quels metiers et metiers sont lies a qu
 L'article est donc une tentative d'esquisse de la structure sociale d'une grande entreprise telle que Facebook. Elle permet de comprendre l'impact du phenomene mondial qui est Internet a travers le reseau social, l'economie locale et mondiale, et les libertes civiles, mais aussi pour mieux comprendre comment le developpement des infrastructures technologiques et de communication haut de gamme s'entremelent avec l'accumulation du capital et du pouvoir politique. 
 L'enquete montre aussi que le tissu de la toile est constitue par les reseaux sociaux personnels de personnes specifiques dans les couches superieures de l'entreprise, c'est ce qui maintient l'ensemble de la structure a l'abri de tout changement dans le monde politique.
 Les liens specifiques qui creent le reseau ne sont pas caches, ou secret, meme si le mythe dit que le maitre des marionnettes tire les ficelles. Il s'agit en fait d'un reseau relativement complexe de nombreux noeuds dont la dynamique est motivee par les interets d'acteurs specifiques. 
-Des entreprises de cette taille comme Facebook influencent, organisent et determinent la vie des elites, de l'economie mondiale, de la vie quotidienne des «utilisateurs moyens».
+Des entreprises de cette taille comme Facebook influencent, organisent et determinent la vie des elites, de l'economie mondiale, de la vie quotidienne des Â«utilisateurs moyensÂ».
 
 ZEROUK Abdeldjalil 
 
