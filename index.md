@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -12,10 +12,6 @@ layout: default
 
   Création de la page d'accueil du site [Suivez le guide](creation)
 
-**2.** [Identité numérique](identité numérique)
 
-**3.** [Cyberespace](cyberspace)
+**2.** [Cyberespace](cyberspace)
 
-**4.** Pour trouver des images de references d'architecture [Suivez le guide](informations)
-
-**5.** Reflexion sur l'espace numérique [Architecture numérique et hétérotopie](numerique)
