@@ -35,7 +35,7 @@
     Compte tenu de ma sensibilite informatique et de ma maitrise de l'outil
     informatique je pensais que ce cours serait la maniere la plus efficace de
     consolider mes acquis et approfondir mes capacites. Je voulais decouvrir
-    une autre façon de travailler avec cet outil, decouvrir de nouveaux
+    une autre facon de travailler avec cet outil, decouvrir de nouveaux
     logiciels et aussi.
 </p>
 <p>
@@ -105,7 +105,7 @@
     </p>
 </p>
 <p>
-    On passe a un internet, cyberespace, ferme, contrôle par les geants a un
+    On passe a un internet, cyberespace, ferme, controle par les geants a un
     web open-source, un parallele interessant avec la ville open-source,
     concept novateur developpe a NEOM, Arabie Saoudite. Cet idee donc
     d'open-source, projet a modele participatif est ainsi presente par le biais
@@ -118,7 +118,7 @@
     Le deuxieme volet, s'attaque plus a la <strong>pratique</strong>,
     application directe des enseignements. Cette pratique passe donc par la
     presentation de logiciels opensource, libre de droit que l'architecte
-    pourrait utiliser plutôt que de se tourner vers les geants du logiciel
+    pourrait utiliser plutot que de se tourner vers les geants du logiciel
     payants. Blender pour la modelisation 3D/2D, Apache Open Office pour ce qui
     est traitement de texte, tableur, gestionnaire de base de donnees ou
     realisation de presentations. D'autres outils sont aussi disponible en
@@ -141,7 +141,7 @@
     L'ensemble des enseignements d "Elements d'architecture numerique" se
     concretise par la volonte d'expliquer la demarche de notre projet et d'en
     faire une experimentation publique qui pourrait servir aux autres groupes
-    de personnes voulant s'aventurer sur le net de façon anonyme pour creer du
+    de personnes voulant s'aventurer sur le net de facon anonyme pour creer du
     web, creer du numerique, en faire son propre cyberespace. La creation d'une
     page web a partir de Gitpages, utilisant la plateforme Github a mis en
     evidence l'ensemble de notre enseignement durant le semestre.
@@ -157,7 +157,7 @@
 <p>
     Finalement ,elements d'architecture numerique m'a apporter une nouvelle
     reflexion sur l'architecture et son rapport au numerique, bousculant ainsi
-    ma naïvete dans ses retranchements. Cette nouvelle ouverture d'esprit, et
+    ma naivete dans ses retranchements. Cette nouvelle ouverture d'esprit, et
     cette acquisition du sens critique sur la realite, m'a permis d'en
     apprendre un plus sur le monde d'aujourd'hui, sur l'avenir du numerique et
     son impact sur l'architecture. Quelques notions de code, langage du
