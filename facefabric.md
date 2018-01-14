@@ -45,7 +45,7 @@ Ce reseau montre encore plus precisement quels metiers et metiers sont lies a qu
 
 L'article est donc une tentative d'esquisse de la structure sociale d'une grande entreprise telle que Facebook. Elle permet de comprendre l'impact du phenomene mondial qui est Internet a travers le reseau social, l'economie locale et mondiale, et les libertes civiles, mais aussi pour mieux comprendre comment le developpement des infrastructures technologiques et de communication haut de gamme s'entremelent avec l'accumulation du capital et du pouvoir politique. 
 L'enquete montre aussi que le tissu de la toile est constitue par les reseaux sociaux personnels de personnes specifiques dans les couches superieures de l'entreprise, c'est ce qui maintient l'ensemble de la structure a l'abri de tout changement dans le monde politique.
-Les liens specifiques qui creent le reseau ne sont pas caches, ou secret, meme si le mythe dit que le maitre des marionnettes tire les ficelles. Il s'agit en fait d'un reseau relativement complexe de nombreux nœuds dont la dynamique est motivee par les interets d'acteurs specifiques. 
+Les liens specifiques qui creent le reseau ne sont pas caches, ou secret, meme si le mythe dit que le maitre des marionnettes tire les ficelles. Il s'agit en fait d'un reseau relativement complexe de nombreux noeuds dont la dynamique est motivee par les interets d'acteurs specifiques. 
 Des entreprises de cette taille comme Facebook influencent, organisent et determinent la vie des elites, de l'economie mondiale, de la vie quotidienne des «utilisateurs moyens».
 
 ZEROUK Abdeldjalil 
