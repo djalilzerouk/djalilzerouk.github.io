@@ -3,18 +3,11 @@
     cours et des reels apports que celui ci peut nous apporter sans que l'on
     s'en rende compte immediatement.
 </p>
-<p>
-    <p>
-    </p>
-</p>
-<p>
-    <p>
-    </p>
-</p>
-<p>
-    <p>
-    </p>
-</p>
+
+
+
+
+
 <p>
     Lors de ma premiere approche pour la selection des enseignements dispense
     en Master 1, je m'etais notamment tourne vers le cours optionnel d'elements
