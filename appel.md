@@ -70,7 +70,7 @@
     Amazon, Microsoft). Ces geants manipulent d' immenses volumetries
     d'utilisateurs et de donnees qui les ont conduits a reinventer
     l'informatique. On assiste par la faute de ces megastructures a la fin de
-    la notion de Cyber-flâneur "Evgeny Morozov". L'idee de surfer sur la toile
+    la notion de Cyber-flaneur "Evgeny Morozov". L'idee de surfer sur la toile
     est maintenant revolu, tout le monde va sur les memes sites, et a les memes
     habitudes. Ce nouvel internet est bien decrit dans l'article consacre a
     Facebook " The Human Fabric Of The FACEBOOK Pyramid" de Share Labs et qui
