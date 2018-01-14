@@ -6,7 +6,7 @@ THE HUMAN FABRIC OF THE FACEBOOK PYRAMID
 
 Quelque mots sur l'auteur de l'article : 
 
-<img src="https://labs.rs/wp-content/uploads/2017/08/cropped-Lab-01-300x300.png">
+<img src="https://labs.rs/wp-content/uploads/2017/08/cropped-Lab-01-300x300.png" width=200>
 Figure 1: Share Labs Logo 
 
 
