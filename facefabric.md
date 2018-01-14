@@ -9,6 +9,7 @@ Quelque mots sur l'auteur de l'article :
 <img src="https://labs.rs/wp-content/uploads/2017/08/cropped-Lab-01-300x300.png">
 Figure 1: Share Labs Logo 
 
+
 Share Labs est une equipe de recherche basee en yougoslavie. C'est un laboratoire de recherche de donnees qui explore l'intersection du numerique et de la societe. 
 
 Il s'interesse aux "autoroutes" de donnees cachees, les failles securitaires et a la question du prive dans les donnees du web.
@@ -33,6 +34,9 @@ En premier lieu de l'analyse, Share Labs essaye d'en apprendre plus sur les pers
 
 Apres avoir explique comment fonctionne cette pyramide et en quoi elle est semblable a une aristocratie du XIX siecle, l'auteur se concentre sur le sommet de cette pyramide et de la poignee de personne qui la compose, et donc qui gravite autour de Mark Zuckerberg. Les donnees analyses sont des donnees publiques disponible sur le net. Ces donnees sont ensuite croisees pour former ce qu'il appelle le reseau de Facebook. La "map" revele bien les relations qui existe entre Facebook, le monde politique, le monde economique et les organisations non gouvernementales. 
 
+
+<a href="https://labs.rs/wp-content/uploads/2017/05/Facebook-Mng-Graph-01.png"><img class="alignnone wp-image-1701 size-full" src="https://labs.rs/wp-content/uploads/2017/05/Facebook-Mng-Graph-01.png">
+  
 Figure 2: Organigramme de gestion de Facebook 
 Au centre du graphique, Mark Zuckerberg entoure de ses collaborateurs les plus proches. Les lignes de reseau qui entourent ces acteurs les connectent l'etablissement d'obtention de diplome, leur position au sein de Facebook, et eventuellement un poste anterieur dans une entreprise differente.
 
