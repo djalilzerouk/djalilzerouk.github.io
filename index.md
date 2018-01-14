@@ -15,9 +15,7 @@ layout: default
 
 **2.** [Cyberespace](cyberspace)
 
-**3.** [Fiche de Lecture - The Human Fabric of the Facebook Pyramid]
-
-- <a href="http://www.nytimes.com/2012/02/05/opinion/sunday/the-death-of-the-cyberflaneur.html?_r=0">The death of the cyberflâneur</a><br>
+**3.** [Fiche de Lecture - The Human Fabric of the Facebook Pyramid](facefabric)
 
 
 **4.** [Kezako? Elements d'architecture numerique](appel)
