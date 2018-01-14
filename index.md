@@ -15,6 +15,8 @@ layout: default
 
 **2.** [Cyberespace](cyberspace)
 
-**3.** [Kezako? Elements d'architecture numerique](appel)
+**3.** [Fiche de Lecture - The Human Fabric of the Facebook Pyramid](facefabric)
+
+**4.** [Kezako? Elements d'architecture numerique](appel)
 
 
